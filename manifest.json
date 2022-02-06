@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "shared",
+  "short_name": "shared",
+  "start_url": "/?utm_source=web_app_manifest"
+}
